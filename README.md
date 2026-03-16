@@ -43,6 +43,13 @@ I work across the entire stack, from frontend user experience to backend service
 <img src="https://skillicons.dev/icons?i=nodejs,python,django,laravel,express" />
 </p>
 
+### CMS / eCommerce
+<p>
+<img src="https://cdn.simpleicons.org/shopify/96BF48" height="48"/>
+<img src="https://skillicons.dev/icons?i=wordpress,webflow" />
+
+</p>
+
 ### AI / Machine Learning
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
