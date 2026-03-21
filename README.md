@@ -69,6 +69,7 @@ I work across the entire stack, from frontend user experience to backend service
 
 ## Current Focus
 
+• Building and customizing Shopify stores and apps  
 • Building AI-driven SaaS platforms  
 • Developing scalable backend architectures  
 • Integrating machine learning into production systems  
