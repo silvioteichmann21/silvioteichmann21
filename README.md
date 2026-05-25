@@ -2,9 +2,11 @@
 
 # Silvio Teichmann
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+AI+Engineer;Building+Scalable+AI+Products;Full+Stack+Architecture+and+Machine+Learning+Integration" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Senior+Full-Stack+%26+AI+Engineer;Shopify+Specialist;Building+Scalable+AI+Products;Full+Stack+Architecture+and+Machine+Learning+Integration" />
 
-Senior Full Stack Engineer focused on building scalable platforms and AI-driven applications.
+## Senior Full-Stack & AI Engineer | Shopify Specialist
+
+Senior Full-Stack Engineer focused on scalable platforms, Shopify development, and AI-driven applications.
 
 </div>
 
@@ -12,17 +14,18 @@ Senior Full Stack Engineer focused on building scalable platforms and AI-driven 
 
 ## About Me
 
-I’m a Senior Full Stack Engineer with experience building modern web platforms and intelligent software systems.
+I’m a Senior Full-Stack & AI Engineer with experience building modern web platforms, Shopify solutions, and intelligent software systems.
 
 My work focuses on scalable architecture, clean code, and practical AI integration across real production environments. I enjoy turning complex ideas into reliable products that deliver measurable value.
 
-I work across the entire stack, from frontend user experience to backend services, data systems, and machine learning integration.
+I work across the entire stack, from frontend user experience to backend services, data systems, eCommerce platforms, and machine learning integration.
 
 ---
 
 ## Core Expertise
 
-• Full Stack Web Development  
+• Full-Stack Web Development  
+• Shopify Store & App Development  
 • AI-Powered Applications  
 • Scalable System Architecture  
 • API Design and Backend Engineering  
@@ -47,7 +50,6 @@ I work across the entire stack, from frontend user experience to backend service
 <p>
 <img src="https://cdn.simpleicons.org/shopify/96BF48" height="48"/>
 <img src="https://skillicons.dev/icons?i=wordpress,webflow" />
-
 </p>
 
 ### AI / Machine Learning
@@ -73,12 +75,12 @@ I work across the entire stack, from frontend user experience to backend service
 • Building AI-driven SaaS platforms  
 • Developing scalable backend architectures  
 • Integrating machine learning into production systems  
-• Creating high-performance full stack applications
+• Creating high-performance full-stack applications  
 
 ---
 
 <div align="center">
 
-Building reliable software and intelligent systems.
+Building reliable software, scalable platforms, and intelligent systems.
 
 </div>
