@@ -2,11 +2,11 @@
 
 # Silvio Teichmann
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Senior+Full-Stack+%26+AI+Engineer;Shopify+Specialist;Building+Scalable+AI+Products;Full+Stack+Architecture+and+Machine+Learning+Integration" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+%26+AI+Engineer;Shopify+Specialist+and+AI+Developer;Building+Scalable+eCommerce+and+AI+Platforms" />
 
-## Senior Full-Stack & AI Engineer | Shopify Specialist
+### Senior Full Stack & AI Engineer | Shopify Specialist
 
-Senior Full-Stack Engineer focused on scalable platforms, Shopify development, and AI-driven applications.
+Building scalable Shopify experiences, AI-powered applications, and modern full stack platforms.
 
 </div>
 
@@ -14,22 +14,21 @@ Senior Full-Stack Engineer focused on scalable platforms, Shopify development, a
 
 ## About Me
 
-I’m a Senior Full-Stack & AI Engineer with experience building modern web platforms, Shopify solutions, and intelligent software systems.
+I’m a Senior Full Stack & AI Engineer with strong experience in Shopify development, scalable web platforms, and AI-driven systems.
 
-My work focuses on scalable architecture, clean code, and practical AI integration across real production environments. I enjoy turning complex ideas into reliable products that deliver measurable value.
+My work focuses on building high-performance Shopify stores, custom integrations, scalable backend architectures, and practical AI solutions used in real production environments.
 
-I work across the entire stack, from frontend user experience to backend services, data systems, eCommerce platforms, and machine learning integration.
+I work across the full stack, from frontend user experience to backend systems, APIs, cloud infrastructure, and machine learning integration.
 
 ---
 
 ## Core Expertise
 
-• Full-Stack Web Development  
-• Shopify Store & App Development  
+• Shopify Store Development and Customization  
+• Full Stack Web Development  
 • AI-Powered Applications  
 • Scalable System Architecture  
 • API Design and Backend Engineering  
-• Data-Driven Platforms  
 • Performance Optimization  
 
 ---
@@ -46,7 +45,7 @@ I work across the entire stack, from frontend user experience to backend service
 <img src="https://skillicons.dev/icons?i=nodejs,python,django,laravel,express" />
 </p>
 
-### CMS / eCommerce
+### Shopify / CMS
 <p>
 <img src="https://cdn.simpleicons.org/shopify/96BF48" height="48"/>
 <img src="https://skillicons.dev/icons?i=wordpress,webflow" />
@@ -71,16 +70,16 @@ I work across the entire stack, from frontend user experience to backend service
 
 ## Current Focus
 
-• Building and customizing Shopify stores and apps  
-• Building AI-driven SaaS platforms  
-• Developing scalable backend architectures  
-• Integrating machine learning into production systems  
-• Creating high-performance full-stack applications  
+• Building modern Shopify stores and custom Shopify solutions  
+• Developing AI-driven SaaS platforms  
+• Building scalable backend systems and APIs  
+• Integrating AI into production environments  
+• Creating high-performance full stack applications
 
 ---
 
 <div align="center">
 
-Building reliable software, scalable platforms, and intelligent systems.
+Building scalable Shopify experiences and intelligent software systems.
 
 </div>
